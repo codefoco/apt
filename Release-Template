@@ -1,0 +1,9 @@
+Origin: Codefoco
+Label: Codefoco
+Suite: stable
+Version: 1.0
+Codename: codefoco
+Architectures: iphoneos-arm
+Components: main
+Description: Repository of Codefoco
+MD5Sum:

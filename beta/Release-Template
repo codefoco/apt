@@ -1,0 +1,9 @@
+Origin: Codefoco (Beta)
+Label: Codefoco (Beta) 
+Suite: unstable
+Version: 0.1
+Codename: codefocobeta
+Architectures: iphoneos-arm
+Components: main
+Description: Repository of Codefoco (Beta)
+MD5Sum:

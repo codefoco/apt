@@ -1,0 +1,8 @@
+#!/bin/sh
+cd beta
+compile-repo
+cd ..
+compile-repo
+git add .
+git commit --amend -m "Update"
+git push --force origin gh-pages
